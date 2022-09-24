@@ -1,2 +1,2 @@
 # mario-jump
- MAIS TARDE TEMRINO .. 
+ MAIS TARDE TERMINO.. 
